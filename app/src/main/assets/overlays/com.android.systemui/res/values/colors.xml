@@ -14,7 +14,7 @@
 
     <color name="qs_detail_empty">@*common:color/qs</color>
 
-    <color name="qs_detail_progress_track">#99FF8A65</color>
+    <color name="qs_detail_progress_track">#99E57373</color>
 
     <drawable name="heads_up_notification_bg_pressed">@*common:color/s500</drawable>
 
