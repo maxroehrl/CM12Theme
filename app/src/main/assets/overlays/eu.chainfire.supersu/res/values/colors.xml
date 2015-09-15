@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_teal_500">@*common:color/s500</color>
+    <color name="material_teal_900">@*common:color/p900</color>
+    <color name="material_teal_950">@*common:color/p950</color>
+</resources>

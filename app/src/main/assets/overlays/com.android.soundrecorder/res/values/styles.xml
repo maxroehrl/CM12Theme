@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SoundRecorder" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:colorPrimary">@color/material_primary</item>
+        <item name="android:colorPrimaryDark">@color/material_dark</item>
+        <item name="android:navigationBarColor">@*common:color/p900</item>
+    </style>
+</resources>

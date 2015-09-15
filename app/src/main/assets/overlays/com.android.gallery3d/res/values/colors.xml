@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*common:color/p900</color>
+    <color name="primary_dark">@*common:color/p950</color>
+    <color name="accent">@*common:color/s500</color>
+
+    <color name="default_background">@color/albumset_background</color>
+
+    <color name="albumset_background">#22292D</color>
+    <color name="albumset_label_background">@*common:color/grey</color>
+
+    <drawable name="fab_accent">@*common:drawable/fab</drawable>
+    <color name="floating_action_button_touch_tint">@*common:color/s900</color>
+</resources>

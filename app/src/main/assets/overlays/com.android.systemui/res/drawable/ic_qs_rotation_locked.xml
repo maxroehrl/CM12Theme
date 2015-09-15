@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/ic_qs_rotation_01" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_02" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_03" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_04" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_05" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_06" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_07" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_08" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_09" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_10" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_11" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_12" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_13" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_14" android:duration="16" />
+    <item android:drawable="@drawable/ic_qs_rotation_15" android:duration="16" />
+</animation-list>

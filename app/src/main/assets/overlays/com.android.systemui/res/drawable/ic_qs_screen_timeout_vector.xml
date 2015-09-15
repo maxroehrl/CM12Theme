@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path android:fillColor="@*common:color/qsb"
+        android:pathData="@*common:string/qsb" />
+
+    <group android:pivotX="21.6"
+        android:pivotY="21.6"
+        android:scaleX="0.8"
+        android:scaleY="0.8">
+
+        <group android:name="base_screen">
+            <path android:fillColor="@*common:color/qs"
+                android:pathData="M38,8v32c0,2.2-1.8,4-4,4H14c-2.2,0-4-1.8-4-4V8c0-2.2,1.8-4,4-4h20C36.2,4,38,5.8,38,8Z
+M34,24 c0-5.5-4.5-10-10-10s-10,4.5-10,10c0,5.5,4.5,10,10,10S34,29.5,34,24z" />
+        </group>
+
+        <group android:name="time1"
+            android:pivotX="24"
+            android:pivotY="24"
+            android:rotation="0">
+
+            <path android:fillColor="@*common:color/qs"
+                android:pathData="M24,18v6h-6C18,20.7,20.7,18,24,18z" />
+        </group>
+
+        <group android:name="time2"
+            android:pivotX="24"
+            android:pivotY="24"
+            android:rotation="0">
+
+            <path android:fillColor="@*common:color/qs"
+                android:pathData="M24,18v6h-6C18,20.7,20.7,18,24,18z" />
+        </group>
+
+        <group android:name="time3"
+            android:pivotX="24"
+            android:pivotY="24"
+            android:rotation="0">
+
+            <path android:fillColor="@*common:color/qs"
+                android:pathData="M24,18v6h-6C18,20.7,20.7,18,24,18z" />
+        </group>
+    </group>
+</vector>

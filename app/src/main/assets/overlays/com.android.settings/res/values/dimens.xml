@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dashboard image tile size -->
+    <dimen name="dashboard_tile_image_size">40dp</dimen>
+
+    <!-- Dashboard padding in its container -->
+    <dimen name="dashboard_padding_start">4dp</dimen>
+    <dimen name="dashboard_padding_end">4dp</dimen>
+
+    <!-- Dashboard category title layout height -->
+    <dimen name="dashboard_category_title_height">60dp</dimen>
+
+    <!-- Dashboard Category Margin Bottom -->
+    <dimen name="dashboard_category_margin_bottom">30dp</dimen>
+</resources>

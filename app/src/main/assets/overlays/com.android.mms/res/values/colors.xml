@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mms_theme_color">@*common:color/p900</color>
+    <color name="mms_theme_color_dark">@*common:color/p950</color>
+    <color name="mms_theme_color_accent">@*common:color/s500</color>
+
+    <color name="actionbar_background_color">@*common:color/p900</color>
+
+    <drawable name="fab_blue">@*common:drawable/fab</drawable>
+</resources>

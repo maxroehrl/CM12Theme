@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*common:color/p900</color>
+    <color name="primary_dark">@*common:color/p950</color>
+    <color name="accent">@*common:color/s500</color>
+
+    <color name="floating_action_button_touch_tint">@*common:color/p950</color>
+
+    <color name="bookmarkWidgetHeader">@*common:color/p900</color>
+
+    <color name="tabFaviconBackground">@*common:color/p900</color>
+
+    <color name="qc_normal">@*common:color/p900</color>
+    <color name="qc_selected">@*common:color/p950</color>
+
+    <drawable name="browsertab_add">@*common:color/p900</drawable>
+    <drawable name="browsertab_add_focused">@*common:color/p950</drawable>
+    <drawable name="browsertab_inactive">@*common:color/p700</drawable>
+
+    <drawable name="nav_tab_bg">@*common:color/p900</drawable>
+
+    <drawable name="bg_browsertabs">@*common:color/p900</drawable>
+    <drawable name="bg_urlbar">@*common:color/p900</drawable>
+    
+    <drawable name="fab_accent">@*common:drawable/fab</drawable>
+</resources>

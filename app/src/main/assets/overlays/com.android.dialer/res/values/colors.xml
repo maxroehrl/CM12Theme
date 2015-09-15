@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialtacts_theme_color">@*common:color/p900</color>
+
+    <color name="dialer_dialpad_touch_tint">@*common:color/s900</color>
+
+    <color name="dialer_theme_color">@*common:color/p900</color>
+    <color name="dialer_theme_color_dark">@*common:color/p950</color>
+
+    <color name="background_dialpad_pressed">@*common:color/s900</color>
+
+    <color name="dialpad_secondary_text_color">@*common:color/s500</color>
+    <color name="dialpad_digits_text_color">@*common:color/s500</color>
+    <color name="dialpad_separator_line_color">@android:color/transparent</color>
+    <color name="dialpad_icon_tint">@*common:color/s500</color>
+    <color name="dialpad_voicemail_tint">@*common:color/s500</color>
+
+    <drawable name="fab_red">@*common:drawable/fab</drawable>
+    <drawable name="fab_green">@*common:drawable/fab</drawable>
+</resources>

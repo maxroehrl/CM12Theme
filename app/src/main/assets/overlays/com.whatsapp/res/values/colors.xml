@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*common:color/p900</color>
+    <color name="primary_dark">@*common:color/p950</color>
+    <color name="accent">@*common:color/s500</color>
+
+    <color name="composing">@*common:color/s500</color>
+
+    <color name="material_deep_teal_200">@*common:color/s200</color>
+    <color name="material_deep_teal_500">@*common:color/s500</color>
+
+    <color name="link_color_incoming">@*common:color/s900</color>
+    <color name="link_color_outgoing">@*common:color/s900</color>
+
+    <color name="background_tab_pressed">@*common:color/s500</color>
+    <color name="tab_indicator">@*common:color/s500</color>
+    <color name="list_item_selected">@*common:color/s500</color>
+
+    <drawable name="toast_frame_holo">@*android:drawable/toast_frame</drawable>
+</resources>

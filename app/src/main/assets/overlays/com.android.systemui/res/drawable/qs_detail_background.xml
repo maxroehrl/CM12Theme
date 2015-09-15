@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <inset android:inset="5dp">
+            <shape android:shape="rectangle">
+                <solid android:color="@color/qs_detail_transition" />
+            </shape>
+        </inset>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@*common:color/p900" />
+        </shape>
+    </item>
+</transition>

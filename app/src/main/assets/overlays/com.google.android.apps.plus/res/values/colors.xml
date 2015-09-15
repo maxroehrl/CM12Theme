@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_blue_grey_800">@*common:color/p800</color>
+    <color name="material_blue_grey_900">@*common:color/p900</color>
+    <color name="material_blue_grey_950">@*common:color/p950</color>
+    <color name="material_deep_teal_200">@*common:color/s200</color>
+    <color name="material_deep_teal_500">@*common:color/s500</color>
+
+    <color name="poll_option_title_blue_background_color">@*common:color/p900</color>
+
+    <color name="action_bar_background">@*common:color/p900</color>
+
+    <color name="quantum_googred500">@*common:color/p900</color>
+    <color name="quantum_googred700">@*common:color/p950</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*common:color/p900</color>
+    <color name="primary_dark">@*common:color/p950</color>
+    <color name="accent">@*common:color/s500</color>
+
+    <color name="drawer_item_default">@*common:color/p800</color>
+    <color name="drawer_item_pressed">@*common:color/s500</color>
+
+    <color name="author_grey">@*common:color/p900</color>
+
+    <color name="apply_button_progress_color">@*common:color/s800</color>
+    <color name="apply_button_default_color">@*common:color/s500</color>
+    <color name="apply_button_pressed_color">@*common:color/s900</color>
+
+    <color name="default_circle_indicator_fill_color">@*common:color/s500</color>
+    <color name="default_circle_indicator_page_color">@android:color/transparent</color>
+    <color name="default_circle_indicator_stroke_color">@*common:color/s500</color>
+</resources>

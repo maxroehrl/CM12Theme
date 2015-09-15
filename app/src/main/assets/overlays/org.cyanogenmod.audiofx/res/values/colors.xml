@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*common:color/p900</color>
+    <color name="primary_dark">@*common:color/p950</color>
+    <color name="accent">@*common:color/s500</color>
+
+    <color name="action_bar_background">@*common:color/p900</color>
+
+    <color name="highlight">@*common:color/s500</color>
+
+    <color name="eq_red">@*common:color/p950</color>
+    <color name="eq_green">@*common:color/p900</color>
+    <color name="eq_yellow">@*common:color/p800</color>
+    <color name="eq_holo_bright">@*common:color/p700</color>
+    <color name="eq_holo_blue">@*common:color/p500</color>
+    <color name="eq_holo_dark">@*common:color/p500</color>
+</resources>

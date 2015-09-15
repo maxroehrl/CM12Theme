@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors specific to Material themes -->
+    <color name="background_material_dark">@*common:color/grey</color>
+    <color name="background_material_light">#ffeeeeee</color>
+
+    <color name="background_floating_material_dark">@*common:color/grey</color>
+    <color name="background_floating_material_light">@color/background_material_light</color>
+
+    <color name="primary_material_dark">@*common:color/greys</color>
+    <color name="primary_material_light">#ffefefef</color>
+    <color name="primary_dark_material_dark">@*common:color/grey</color>
+    <color name="primary_dark_material_light">#ff757575</color>
+
+    <color name="ripple_material_dark">@*common:color/s500t</color>
+    <color name="ripple_material_light">@*common:color/s500t</color>
+
+    <color name="btn_default_material_dark">@*common:color/s400</color>
+    <color name="btn_default_material_light">@*common:color/s400</color>
+
+    <color name="accent_material_light">@*common:color/s500</color>
+    <color name="accent_material_dark">@*common:color/s500</color>
+
+    <color name="highlighted_text_material_dark">@*common:color/s500t</color>
+    <color name="highlighted_text_material_light">@*common:color/s500t</color>
+
+    <!-- Primary & accent colors -->
+    <color name="material_deep_teal_200">@*common:color/s200</color>
+    <color name="material_deep_teal_500">@*common:color/s500</color>
+
+    <color name="material_blue_grey_800">@*common:color/p800</color>
+    <color name="material_blue_grey_900">@*common:color/p900</color>
+    <color name="material_blue_grey_950">@*common:color/p950</color>
+
+    <!-- Notifications -->
+    <color name="notification_icon_bg_color">@*common:color/s500</color>
+    <color name="system_notification_accent_color">@*common:color/p900</color>
+
+    <!-- Holo theme redirections -->
+    <color name="holo_blue_bright">@*common:color/s500</color>
+    <color name="holo_blue_light">@*common:color/s500</color>
+    <color name="holo_blue_dark">@*common:color/s500</color>
+
+    <color name="highlighted_text_holo_dark">@color/highlighted_text_material_dark</color>
+    <color name="highlighted_text_holo_light">@color/highlighted_text_material_light</color>
+
+    <color name="bright_foreground_disabled_holo_dark">@*common:color/greyd</color>
+    <color name="dim_foreground_dark_disabled">@*common:color/greyd</color>
+    <color name="dim_foreground_disabled_holo_dark">@*common:color/greyd</color>
+
+    <!-- Action bar -->
+    <drawable name="ab_solid_dark_holo">@*common:color/greys</drawable>
+    <drawable name="ab_stacked_solid_dark_holo">@*common:color/greys</drawable>
+    <drawable name="ab_bottom_solid_dark_holo">@*common:color/greys</drawable>
+    <!--<drawable name="ab_solid_light_holo">@*common:color/s400</drawable>
+    <drawable name="ab_stacked_solid_light_holo">@*common:color/s400</drawable>
+    <drawable name="ab_bottom_solid_light_holo">@*common:color/s400</drawable>-->
+    <drawable name="ab_stacked_solid_inverse_holo">@*common:color/greys</drawable>
+    <drawable name="ab_bottom_solid_inverse_holo">@*common:color/greys</drawable>
+    <drawable name="ab_transparent_dark_holo">@*common:color/greys</drawable>
+    <!--<drawable name="ab_transparent_light_holo">@*common:color/s400</drawable>-->
+    <drawable name="ab_bottom_transparent_dark_holo">@*common:color/greys</drawable>
+    <!--<drawable name="ab_bottom_transparent_light_holo">@*common:color/s400</drawable>-->
+    <drawable name="ab_solid_shadow_holo">@android:color/transparent</drawable>
+
+    <!-- Backgrounds -->
+    <drawable name="background_holo_dark">@color/background_material_dark</drawable>
+    <drawable name="background_holo_light">@color/background_material_light</drawable>
+
+    <!-- Check buttons -->
+    <drawable name="btn_check_holo">@*android:drawable/btn_check_material_anim</drawable>
+    <drawable name="btn_check_holo_dark">@*android:drawable/btn_check_material_anim</drawable>
+    <drawable name="btn_check_holo_light">@*android:drawable/btn_check_material_anim</drawable>
+
+    <!-- Toggle buttons -->
+    <drawable name="btn_toggle">@*android:drawable/btn_toggle_material</drawable>
+    <drawable name="btn_toggle_holo_dark">@*android:drawable/btn_toggle_material</drawable>
+    <drawable name="btn_toggle_holo_light">@*android:drawable/btn_toggle_material</drawable>
+
+    <!-- Contextual action bar -->
+    <drawable name="cab_background_top_holo_dark">@*common:color/p900</drawable>
+    <drawable name="cab_background_bottom_holo_dark">@*common:color/p900</drawable>
+    <drawable name="cab_background_top_holo_light">@*common:color/s400</drawable>
+    <drawable name="cab_background_bottom_holo_light">@*common:color/s400</drawable>
+
+    <!-- Buttons -->
+    <drawable name="btn_default_holo">@*android:drawable/btn_default_material</drawable>
+    <drawable name="btn_default_holo_dark">@*android:drawable/btn_default_material</drawable>
+    <drawable name="btn_default_holo_light">@*android:drawable/btn_default_material</drawable>
+
+    <!-- Edit text fields -->
+    <drawable name="edit_text">@*android:drawable/edit_text_material</drawable>
+    <drawable name="edit_text_holo_dark">@*android:drawable/edit_text_material</drawable>
+    <drawable name="edit_text_holo_light">@*android:drawable/edit_text_material</drawable>
+
+    <!-- Fastscroll -->
+    <drawable name="fastscroll_label_left_holo_dark">@*android:drawable/fastscroll_label_left_material</drawable>
+    <drawable name="fastscroll_label_left_holo_light">@*android:drawable/fastscroll_label_left_material</drawable>
+    <drawable name="fastscroll_label_right_holo_dark">@*android:drawable/fastscroll_label_right_material</drawable>
+    <drawable name="fastscroll_label_right_holo_light">@*android:drawable/fastscroll_label_right_material</drawable>
+    <drawable name="fastscroll_thumb_holo">@*android:drawable/fastscroll_thumb_material</drawable>
+    <drawable name="fastscroll_track_holo_dark">@*android:drawable/fastscroll_track_material</drawable>
+    <drawable name="fastscroll_track_holo_light">@*android:drawable/fastscroll_track_material</drawable>
+
+    <!-- Lists -->
+    <drawable name="list_activated_holo">@*common:color/s500</drawable>
+    <drawable name="list_focused_holo">@*common:color/s500</drawable>
+    <drawable name="list_longpressed_holo">@*common:color/s500</drawable>
+    <drawable name="list_longpressed_holo_dark">@*common:color/s500</drawable>
+    <drawable name="list_longpressed_holo_light">@*common:color/s500</drawable>
+    <drawable name="list_pressed_holo_dark">@*common:color/s500</drawable>
+    <drawable name="list_pressed_holo_light">@*common:color/s500</drawable>
+    <drawable name="list_selected_holo_dark">@*common:color/s500</drawable>
+    <drawable name="list_selected_holo_light">@*common:color/s500</drawable>
+    <drawable name="list_divider_holo_dark">@android:color/transparent</drawable>
+    <drawable name="list_divider_holo_light">@android:color/transparent</drawable>
+    <drawable name="list_selector_disabled_holo_dark">@*common:color/s500</drawable>
+    <drawable name="list_selector_pressed_holo_dark">@*common:color/s500</drawable>
+
+    <!-- Progress bars -->
+    <drawable name="progress_horizontal">@*android:drawable/progress_horizontal_material</drawable>
+    <drawable name="progress_horizontal_holo_dark">@*android:drawable/progress_horizontal_material</drawable>
+    <drawable name="progress_horizontal_holo_light">@*android:drawable/progress_horizontal_material</drawable>
+    <drawable name="progress_indeterminate_horizontal">@*android:drawable/progress_indeterminate_horizontal_material</drawable>
+    <drawable name="progress_indeterminate_horizontal_holo">@*android:drawable/progress_indeterminate_horizontal_material</drawable>
+
+    <!-- Progress spinners -->
+    <drawable name="progress_large">@*android:drawable/progress_large_material</drawable>
+    <drawable name="progress_large_holo">@*android:drawable/progress_large_material</drawable>
+    <drawable name="progress_large_white">@*android:drawable/progress_large_material</drawable>
+    <drawable name="progress_medium">@*android:drawable/progress_large_material</drawable>
+    <drawable name="progress_medium_holo">@*android:drawable/progress_medium_material</drawable>
+    <drawable name="progress_medium_white">@*android:drawable/progress_large_material</drawable>
+    <drawable name="progress_small">@*android:drawable/progress_large_material</drawable>
+    <drawable name="progress_small_holo">@*android:drawable/progress_small_material</drawable>
+    <drawable name="progress_small_white">@*android:drawable/progress_large_material</drawable>
+
+    <!-- Radio buttons -->
+    <drawable name="btn_radio_holo">@*android:drawable/btn_radio_material_anim</drawable>
+    <drawable name="btn_radio_holo_dark">@*android:drawable/btn_radio_material_anim</drawable>
+    <drawable name="btn_radio_holo_light">@*android:drawable/btn_radio_material_anim</drawable>
+
+    <!-- Ratingbars -->
+    <drawable name="ratingbar_full_empty">@*android:drawable/ratingbar_full_empty_material</drawable>
+    <drawable name="ratingbar_full_empty_holo_dark">@*android:drawable/ratingbar_full_empty_material</drawable>
+    <drawable name="ratingbar_full_empty_holo_light">@*android:drawable/ratingbar_full_empty_material</drawable>
+    <drawable name="ratingbar_full_filled">@*android:drawable/ratingbar_full_filled_material</drawable>
+    <drawable name="ratingbar_full_filled_holo_dark">@*android:drawable/ratingbar_full_filled_material</drawable>
+    <drawable name="ratingbar_full_filled_holo_light">@*android:drawable/ratingbar_full_filled_material</drawable>
+    <drawable name="ratingbar_full">@*android:drawable/ratingbar_full_material</drawable>
+    <drawable name="ratingbar_full_holo_dark">@*android:drawable/ratingbar_full_material</drawable>
+    <drawable name="ratingbar_full_holo_light">@*android:drawable/ratingbar_full_material</drawable>
+
+    <!-- Scrubber bars -->
+    <drawable name="scrubber_control_selector_holo">@*android:drawable/scrubber_control_selector_material</drawable>
+    <drawable name="scrubber_progress_horizontal_holo_dark">@*android:drawable/scrubber_progress_horizontal_material</drawable>
+    <drawable name="scrubber_progress_horizontal_holo_light">@*android:drawable/scrubber_progress_horizontal_material</drawable>
+
+    <!-- Star buttons -->
+    <drawable name="btn_star">@*android:drawable/btn_star_material</drawable>
+    <drawable name="btn_star_holo_dark">@*android:drawable/btn_star_material</drawable>
+    <drawable name="btn_star_holo_light">@*android:drawable/btn_star_material</drawable>
+
+    <!-- Switches -->
+    <drawable name="switch_track_holo_dark">@*android:drawable/switch_track_material</drawable>
+    <drawable name="switch_track_holo_light">@*android:drawable/switch_track_material</drawable>
+    <drawable name="switch_inner_holo_dark">@*android:drawable/switch_thumb_material_anim</drawable>
+    <drawable name="switch_inner_holo_light">@*android:drawable/switch_thumb_material_anim</drawable>
+
+    <!-- Tabs indicator -->
+    <drawable name="tab_indicator_holo">@*android:drawable/tab_indicator_material</drawable>
+    <drawable name="tab_indicator_ab_holo">@*android:drawable/tab_indicator_material</drawable>
+
+    <!-- Text fields -->
+    <drawable name="textfield_search">@*android:drawable/textfield_search_material</drawable>
+    <drawable name="textfield_searchview_holo_dark">@*android:drawable/textfield_search_material</drawable>
+    <drawable name="textfield_searchview_holo_light">@*android:drawable/textfield_search_material</drawable>
+    <drawable name="textfield_searchview_right_holo_dark">@*android:drawable/textfield_search_material</drawable>
+    <drawable name="textfield_searchview_right_holo_light">@*android:drawable/textfield_search_material</drawable>
+
+    <!-- Text select handler -->
+    <drawable name="text_select_handle_left">@*android:drawable/text_select_handle_left_material</drawable>
+    <drawable name="text_select_handle_middle">@*android:drawable/text_select_handle_middle_material</drawable>
+    <drawable name="text_select_handle_right">@*android:drawable/text_select_handle_right_material</drawable>
+
+    <drawable name="ic_lock_screen_record">@drawable/ic_lock_screenrecord</drawable>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark_material_dark">@*common:color/p950</color>
+    <color name="primary_dark_material_light">@*common:color/p950</color>
+    <color name="primary_material_dark">@*common:color/p900</color>
+    <color name="primary_material_light">@*common:color/p900</color>
+
+    <color name="play_multi_primary">@*common:color/p900</color>
+    <color name="play_multi_primary_disabled">@*common:color/p300</color>
+    <color name="play_multi_secondary">@*common:color/p900</color>
+    <color name="play_multi_recents">@*common:color/p900</color>
+    <color name="play_apps_primary">@*common:color/p900</color>
+    <color name="play_apps_secondary">@*common:color/p900</color>
+    <color name="play_apps_recents">@*common:color/p900</color>
+
+    <color name="apps_dark">@*common:color/p950</color>
+    <color name="apps_primary">@*common:color/p900</color>
+    <color name="apps_primary_disabled">@*common:color/p300</color>
+    <color name="apps_secondary">@*common:color/p900</color>
+    <color name="apps_secondary_disabled">@*common:color/p300</color>
+
+    <color name="whatsnew_apps">#CFD8DC</color>
+
+    <color name="play_app_color">@*common:color/p900</color>
+    <color name="app_color">@*common:color/p900</color>
+    <color name="app_color_accented">@*common:color/p900</color>
+
+    <color name="status_bar_multi">@*common:color/p900</color>
+    <color name="status_bar_apps">@*common:color/p900</color>
+
+    <color name="accent_material_light">@*common:color/p900</color>
+    <color name="accent_material_dark">@*common:color/p900</color>
+
+    <color name="top_developer">@*common:color/p900</color>
+
+    <color name="review_histogram_1_bar">#BF360C</color>
+    <color name="review_histogram_2_bar">#FF5722</color>
+    <color name="review_histogram_3_bar">#FFEB3B</color>
+    <color name="review_histogram_4_bar">#4CAF50</color>
+    <color name="review_histogram_5_bar">#1B5E20</color>
+
+    <color name="material_deep_teal_200">@*android:color/material_deep_teal_200</color>
+    <color name="material_deep_teal_500">@*android:color/material_deep_teal_500</color>
+    <color name="material_blue_grey_800">@*android:color/material_blue_grey_800</color>
+    <color name="material_blue_grey_900">@*android:color/material_blue_grey_900</color>
+    <color name="material_blue_grey_950">@*android:color/material_blue_grey_950</color>
+
+    <drawable name="action_bar_bg_home">@*common:color/p900</drawable>
+    <drawable name="action_bar_bg_apps">@*common:color/p900</drawable>
+
+    <drawable name="play_action_button_multi_start">@*common:color/p900</drawable>
+    <drawable name="play_action_button_apps_start">@*common:color/p900</drawable>
+
+    <drawable name="play_action_button_multi">@*common:color/p900</drawable>
+    <drawable name="play_action_button_apps">@*common:color/p900</drawable>
+
+    <drawable name="play_action_button_apps_base">@*common:color/p900</drawable>
+    <drawable name="play_action_button_multi_base">@*common:color/p900</drawable>
+
+    <drawable name="rec_widget_strip_apps">@*common:color/p900</drawable>
+</resources>

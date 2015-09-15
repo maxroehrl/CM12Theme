@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color palette -->
+    <color name="p50">#ECEFF1</color>
+    <color name="p100">#CFD8DC</color>
+    <color name="p200">#B0BEC5</color>
+    <color name="p300">#90A4AE</color>
+    <color name="p400">#78909C</color>
+    <color name="p500">#607D8B</color>
+    <color name="p600">#546E7A</color>
+    <color name="p700">#455A64</color>
+    <color name="p800">#37474F</color>
+    <color name="p900">#263238</color>
+    <color name="p950">#1C2429</color>
+
+    <!-- Secondary color palette -->
+    <color name="s50">#FBE9E7</color>
+    <color name="s100">#FFCCBC</color>
+    <color name="s200">#FFAB91</color>
+    <color name="s300">#FF8A65</color>
+    <color name="s400">#FF7043</color>
+    <color name="s500">#FF5722</color>
+    <color name="s600">#F4511E</color>
+    <color name="s700">#E64A19</color>
+    <color name="s800">#D84315</color>
+    <color name="s900">#BF360C</color>
+
+    <!-- Dark grey color -->
+    <color name="grey">#13191C</color>
+    <color name="greys">#24292D</color>
+    <color name="greyd">#434546</color>
+
+    <!-- Qs tile colors -->
+    <color name="qs">@color/s100</color>
+    <color name="qss">@color/s200</color>
+    <color name="qsd">@color/p800</color>
+    <color name="qsb">@color/s500</color>
+    <color name="qsbd">@color/qsd</color>
+
+    <!-- Settings icons color -->
+    <color name="s">@color/s100</color>
+    <color name="ss">@color/s200</color>
+    <color name="sb">@color/s500</color>
+
+    <!-- Switch off color -->
+    <color name="switch_off">#2D3339</color>
+
+    <!-- Shared keyboard resources -->
+    <!-- Color resources for KLP theme. -->
+    <color name="highlight_color_klp">@*common:color/s500</color>
+    <color name="typed_word_color_klp">@*common:color/s500</color>
+    <color name="suggested_word_color_klp">@*common:color/s500</color>
+    <color name="highlight_translucent_color_klp">@*common:color/s500t</color>
+    <color name="key_hint_letter_color_holo">#80FFFFFF</color>
+    <color name="gesture_floating_preview_color_holo">@android:color/white</color>
+
+    <!-- Color resources for LXX_Light theme. -->
+    <color name="highlight_color_lxx_light">@*common:color/s500</color>
+    <color name="auto_correct_color_lxx_light">@*common:color/s500</color>
+    <color name="suggested_word_color_lxx_light">@*common:color/s500</color>
+    <color name="gesture_trail_color_lxx_light">@*common:color/s500</color>
+    <color name="sliding_key_input_preview_color_lxx_light">@*common:color/s500</color>
+
+    <color name="key_background_lxx_light">#ECEFF1</color>
+    <color name="key_background_pressed_lxx_light">#2637474F</color>
+
+    <!-- Color resources for LXX_Dark theme. -->
+    <color name="highlight_color_lxx_dark">@*common:color/s500</color>
+    <color name="auto_correct_color_lxx_dark">@*common:color/s500</color>
+    <color name="suggested_word_color_lxx_dark">@*common:color/s500</color>
+    <color name="gesture_trail_color_lxx_dark">@*common:color/s500</color>
+    <color name="sliding_key_input_preview_color_lxx_dark">@*common:color/s500</color>
+
+    <color name="key_background_lxx_dark">@*common:color/grey</color>
+    <color name="key_background_pressed_lxx_dark">@*common:color/grey</color>
+
+    <!-- Accent color for the notification. We need to match this to the OS build -->
+    <color name="notification_accent_color">@*common:color/s500</color>
+
+    <!-- Palette colors referenced by top-level themes. -->
+    <color name="theme_primary">@*common:color/p900</color>
+    <color name="theme_primary_dark">@*common:color/p950</color>
+    <color name="theme_accent">@*common:color/s500</color>
+</resources>

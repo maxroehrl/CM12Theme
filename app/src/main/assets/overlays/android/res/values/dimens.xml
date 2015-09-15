@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default rounded corner for controls -->
+    <dimen name="control_corner_material">8dp</dimen>
+</resources>

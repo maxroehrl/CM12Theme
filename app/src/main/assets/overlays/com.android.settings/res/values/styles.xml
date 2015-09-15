@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
+        <item name="android:navigationBarColor">@*common:color/p900</item>
+    </style>
+
+    <style name="TextAppearance.CategoryTitle" parent="@android:style/TextAppearance.Material.Small">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>

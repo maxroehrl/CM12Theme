@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path android:strokeColor="@*common:color/qsbd"
+        android:strokeWidth="3"
+        android:pathData="@*common:string/qsbd" />
+
+    <group android:pivotX="24"
+        android:pivotY="24"
+        android:scaleX="0.8"
+        android:scaleY="0.8">
+
+        <path android:fillColor="@*common:color/qsd"
+            android:pathData="M38.1,16.6c-1.4-2.1-3.2-3.9-5.4-5.2c-0.4-0.2-0.9-0.3-1.3,0c-0.4,0.2-0.7,0.7-0.7,1.1v2.7
+c0,0.4,0.2,0.8,0.5,1c2.9,2.2,4.6,5.7,4.6,9.3c0,6.4-5.2,11.7-11.7,11.7S12.5,32,12.5,25.6c0-3.6,1.7-7.1,4.6-9.3
+c0.3-0.2,0.5-0.6,0.5-1v-2.7c0-0.5-0.3-0.9-0.7-1.1c-0.4-0.2-0.9-0.2-1.3,0c-2.2,1.3-4,3.1-5.4,5.2c-1.7,2.7-2.6,5.8-2.6,9
+c0,4.4,1.7,8.6,4.8,11.7c3.1,3.1,7.3,4.8,11.7,4.8s8.6-1.7,11.7-4.8c3.1-3.1,4.8-7.3,4.8-11.7C40.8,22.4,39.8,19.3,38.1,16.6z" />
+
+        <path android:fillColor="@*common:color/qsd"
+            android:pathData="M22.7,27h3.1c0.7,0,1.2-0.6,1.2-1.2V8.2c0-0.7-0.6-1.2-1.2-1.2h-3.1c-0.7,0-1.2,0.6-1.2,1.2v17.6
+C21.4,26.5,22,27,22.7,27z" />
+    </group>
+</vector>

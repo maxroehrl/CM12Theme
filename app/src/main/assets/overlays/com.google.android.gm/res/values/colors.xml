@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quantum_googred400">@*common:color/p900</color>
+    <color name="quantum_googred500">@*common:color/p900</color>
+    <color name="quantum_googred800">@*common:color/p900</color>
+</resources>

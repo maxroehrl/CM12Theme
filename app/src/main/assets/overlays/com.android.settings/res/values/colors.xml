@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Section header color -->
+    <color name="theme_accent">@*common:color/s500</color>
+
+    <!-- Switchbar color -->
+    <color name="switchbar_background_color">@*common:color/p800</color>
+
+    <!-- Switch on color -->
+    <color name="switch_accent_color">@*common:color/s500</color>
+
+    <!-- Qs config -->
+    <color name="qs_tile_tint_color">@android:color/transparent</color>
+
+    <!-- Running processes -->
+    <color name="running_processes_system_ram">@*common:color/p900</color>
+    <color name="running_processes_apps_ram">@*common:color/s500</color>
+
+    <!-- Data usage -->
+    <color name="data_usage_fill_color">@*common:color/p900</color>
+    <color name="data_usage_secondary_fill_color">@*common:color/p300</color>
+
+    <!-- Section dividers -->
+    <color name="dashboard_background_color">#CECECE</color>
+
+    <!-- Dashboard background color -->
+    <color name="dashboard_category_background_color">@drawable/dashboard_category_background_color</color>
+
+    <!-- Dashboard Category Title Background Color -->
+    <color name="dashboard_category_title_bg_color">@drawable/dashboard_category_title_bg</color>
+
+    <!-- Storage usage -->
+    <color name="memory_used">@*common:color/s500</color>
+    <color name="memory_apps_usage">#FF5722</color>
+    <color name="memory_downloads">#795548</color>
+    <color name="memory_dcim">#CDDC39</color>
+    <color name="memory_music">#4CAF50</color>
+    <color name="memory_cache">#3F51B5</color>
+    <color name="memory_misc">#4A148C</color>
+    <color name="memory_user_light">#37474F</color>
+    <color name="memory_user_dark">#004D40</color>
+
+    <drawable name="ic_settings_cell_standby">@drawable/ic_settings_cellular</drawable>
+    <drawable name="ic_settings_theme">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_menu_add">@drawable/ic_menu_add_dark</drawable>
+    <drawable name="ic_action_action_perm_identity">@drawable/ic_settings_multiuser</drawable>
+    <drawable name="ic_rrutilities">@drawable/ic_sysbar_quicksettings</drawable>
+    <drawable name="ic_performance_icon">@drawable/ic_settings_performance</drawable>
+    <drawable name="ic_privacy_guard">@drawable/ic_settings_privacy</drawable>
+    <drawable name="ic_audio_ring_24dp">@drawable/ic_bt_cellphone</drawable>
+    <drawable name="ic_settings_navigation_bar">@drawable/ic_settings_home</drawable>
+    <drawable name="ring_notif_increasing">@drawable/ic_settings_sounds</drawable>
+    <drawable name="prd_ic_themepacks">@drawable/ic_settings_themes</drawable>
+    <drawable name="paint_bucket">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_rrlocked">@drawable/ic_settings_security</drawable>
+    <drawable name="nfc_payment_empty_state">@drawable/ic_settings_nfc_payment</drawable>
+    <drawable name="ic_ic_settings_about_rr">@drawable/ic_sysbar_quicksettings</drawable>
+    <drawable name="ic_sysbar_brightness">@drawable/ic_settings_display</drawable>
+    <drawable name="ic_settings_power">@drawable/ic_settings_performance</drawable>
+    <drawable name="ic_rrmagic">@drawable/ic_settings_display_animations</drawable>
+    <drawable name="ic_settings_sound">@drawable/ic_settings_sounds</drawable>
+    <drawable name="ic_settings_phone_idle">@drawable/ic_settings_interface</drawable>
+    <drawable name="ic_settings_system">@drawable/ic_settings_status_bar</drawable>
+    <drawable name="ic_rrequalizer">@drawable/ic_bliss_equalizer</drawable>
+    <drawable name="ic_rrtasks">@drawable/ic_power_system</drawable>
+</resources>

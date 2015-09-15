@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material design app colors -->
+    <color name="colorPrimary">@*common:color/p900</color>
+    <color name="colorPrimaryDark">@*common:color/p950</color>
+    <color name="colorAccent">@*common:color/s500</color>
+</resources>

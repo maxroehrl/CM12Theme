@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_background_color">@*common:color/p900</color>
+    <color name="action_bar_background_color_dark">@*common:color/p950</color>
+
+    <color name="fab_color">@*common:color/s500</color>
+    <color name="fab_ripple">@*common:color/s900</color>
+</resources>

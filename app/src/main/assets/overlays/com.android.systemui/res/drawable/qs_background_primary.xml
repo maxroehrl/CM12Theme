@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetTop="@dimen/notification_material_rounded_rect_radius_negative">
+    <shape android:shape="rectangle">
+        <solid android:color="@color/system_primary_color" />
+        <corners android:radius="@dimen/notification_material_rounded_rect_radius" />
+        <stroke android:color="@color/system_secondary_color"
+            android:width="3dp" />
+    </shape>
+</inset>

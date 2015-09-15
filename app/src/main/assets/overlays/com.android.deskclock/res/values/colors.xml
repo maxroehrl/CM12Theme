@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hot_pink">@*common:color/s500</color>
+    <color name="default_background">@*common:color/p900</color>
+    <color name="status_bar">@*common:color/p950</color>
+</resources>

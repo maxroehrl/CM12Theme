@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_palette_blue_primary">@*common:color/s500</color>
+    <color name="material_palette_blue_primary_dark">@*common:color/p900</color>
+    <color name="actionbar_palette_blue_primary">@*common:color/p900</color>
+
+    <drawable name="bg_material_titlebar">@*common:color/p900</drawable>
+    <drawable name="bg_material_statusbar">@*common:color/p900</drawable>
+</resources>
