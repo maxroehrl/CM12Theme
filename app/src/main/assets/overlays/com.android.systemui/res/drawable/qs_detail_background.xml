@@ -9,7 +9,7 @@
     </item>
     <item>
         <shape android:shape="rectangle">
-            <solid android:color="@*common:color/p900" />
+            <solid android:color="@*common:color/grey" />
         </shape>
     </item>
 </transition>

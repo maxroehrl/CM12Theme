@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.max.theme.phi"
+    package="com.max.theme.aurora"
     android:installLocation="internalOnly">
 
     <uses-feature android:name="org.cyanogenmod.theme"

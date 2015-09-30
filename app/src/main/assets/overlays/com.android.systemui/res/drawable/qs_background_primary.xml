@@ -4,7 +4,7 @@
     <shape android:shape="rectangle">
         <solid android:color="@color/system_primary_color" />
         <corners android:radius="@dimen/notification_material_rounded_rect_radius" />
-        <stroke android:color="@color/system_secondary_color"
+        <stroke android:color="@*common:color/p900"
             android:width="3dp" />
     </shape>
 </inset>

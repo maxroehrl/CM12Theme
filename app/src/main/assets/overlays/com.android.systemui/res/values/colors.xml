@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Qick settings color -->
-    <color name="system_primary_color">@*common:color/p900</color>
+    <color name="system_primary_color">@*common:color/grey</color>
 
     <!-- Notification bar header color -->
-    <color name="system_secondary_color">@*common:color/p950</color>
+    <color name="system_secondary_color">@*common:color/greys</color>
 
     <!-- Brightness scrollbar color -->
     <color name="system_accent_color">@*common:color/s500</color>
@@ -14,11 +14,11 @@
 
     <color name="qs_detail_empty">@*common:color/qs</color>
 
-    <color name="qs_detail_progress_track">#99FF8A65</color>
+    <color name="qs_detail_progress_track">#99102356</color>
 
     <drawable name="heads_up_notification_bg_pressed">@*common:color/s500</drawable>
 
-    <color name="qs_detail_transition">#99FF5722</color>
+    <color name="qs_detail_transition">#992B4995</color>
 
     <!-- Color for the equalizer tile -->
     <color name="visualizer_fill_color">@*common:color/s500</color>
