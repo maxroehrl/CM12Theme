@@ -4,6 +4,14 @@
         <item name="android:navigationBarColor">@*common:color/p900</item>
     </style>
 
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.Light.DialogWhenLarge">
+        <item name="android:colorAccent">@*common:color/s500</item>
+        <item name="android:colorPrimary">@*common:color/p900</item>
+        <item name="android:colorPrimaryDark">@*common:color/p950</item>
+        <item name="android:actionBarStyle">@android:style/Widget.Material.ActionBar.Solid</item>
+        <item name="android:navigationBarColor">@*common:color/p900</item>
+    </style>
+
     <style name="TextAppearance.CategoryTitle" parent="@android:style/TextAppearance.Material.Small">
         <item name="android:textColor">@android:color/white</item>
         <item name="android:textSize">18sp</item>
