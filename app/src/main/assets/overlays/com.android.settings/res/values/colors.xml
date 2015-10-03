@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Section header color -->
     <color name="theme_accent">@*common:color/s500</color>
-
-    <!-- Switchbar color -->
     <color name="switchbar_background_color">@*common:color/greys</color>
-
-    <!-- Switch on color -->
     <color name="switch_accent_color">@*common:color/s500</color>
 
-    <!-- Qs config -->
+    <!-- Qs tile picker -->
     <color name="qs_tile_tint_color">@android:color/transparent</color>
+    <color name="background_color_white">@*common:color/grey</color>
+    <color name="background_color_gray">@*common:color/grey</color>
+    <color name="cardview_light_background">@*common:color/greyd</color>
+
+    <color name="white_text">@android:color/white</color>
+
+    <color name="text_color_black">@android:color/white</color>
+
+    <color name="regulatory_text_color">@android:color/black</color>
+
+    <color name="light_grey">@android:color/white</color>
+
+    <color name="wifi_divider">@*common:color/greyd</color>
 
     <!-- Running processes -->
-    <color name="running_processes_system_ram">@*common:color/p900</color>
+    <color name="running_processes_system_ram">@*common:color/s900</color>
     <color name="running_processes_apps_ram">@*common:color/s500</color>
 
     <!-- Data usage -->
     <color name="data_usage_fill_color">@*common:color/p900</color>
     <color name="data_usage_secondary_fill_color">@*common:color/p300</color>
+    <color name="data_usage_stroke_color">@android:color/transparent</color>
+    <color name="data_usage_label_color">@android:color/white</color>
+    <color name="data_usage_secondary_label_color">@android:color/white</color>
 
     <!-- Section dividers -->
     <color name="dashboard_background_color">@*common:color/grey</color>
