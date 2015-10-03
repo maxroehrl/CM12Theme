@@ -27,6 +27,6 @@
     <!-- The side padding of the notifications-->
     <dimen name="notification_side_padding">0dp</dimen>
 
-    <dimen name="qs_stroke_width">3dp</dimen>
-    <dimen name="qs_stroke_width_negative">-3dp</dimen>
+    <dimen name="qs_stroke_width">8dp</dimen>
+    <dimen name="qs_stroke_width_negative">-8dp</dimen>
 </resources>
