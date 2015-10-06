@@ -4,12 +4,18 @@
     android:shareInterpolator="false">
 
     <alpha android:duration="200"
+        android:fillAfter="true"
+        android:fillBefore="false"
+        android:fillEnabled="true"
         android:fromAlpha="0"
         android:toAlpha="1"
         android:interpolator="@android:interpolator/decelerate_quad" />
 
-    <translate android:duration="400"
-        android:fromYDelta="50%"
+    <translate android:duration="350"
+        android:fillAfter="true"
+        android:fillBefore="true"
+        android:fillEnabled="true"
+        android:fromYDelta="8%"
         android:toYDelta="0"
-        android:interpolator="@android:interpolator/overshoot" />
+        android:interpolator="@android:interpolator/decelerate_quint" />
 </set>
