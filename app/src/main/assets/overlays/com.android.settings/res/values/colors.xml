@@ -8,7 +8,7 @@
     <color name="qs_tile_tint_color">@android:color/transparent</color>
     <color name="background_color_white">@*common:color/grey</color>
     <color name="background_color_gray">@*common:color/grey</color>
-    <color name="cardview_light_background">@*common:color/greyd</color>
+    <color name="cardview_light_background">@*common:color/greys</color>
 
     <color name="white_text">@android:color/white</color>
 
