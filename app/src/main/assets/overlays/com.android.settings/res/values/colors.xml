@@ -35,10 +35,7 @@
     <color name="dashboard_background_color">@*common:color/grey</color>
 
     <!-- Dashboard background color -->
-    <color name="dashboard_category_background_color">@*common:color/grey</color>
-
-    <!-- Dashboard Category Title Background Color -->
-    <color name="dashboard_category_title_bg_color">@*common:color/greys</color>
+    <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
 
     <!-- Storage usage -->
     <color name="memory_used">@*common:color/s500</color>
