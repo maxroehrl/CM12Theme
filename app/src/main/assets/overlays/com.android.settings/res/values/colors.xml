@@ -48,6 +48,9 @@
     <color name="memory_user_light">#37474F</color>
     <color name="memory_user_dark">#004D40</color>
 
+    <drawable name="ic_settings_wifi">@drawable/ic_settings_wireless</drawable>
+    <drawable name="ic_settings_bluetooth">@drawable/ic_settings_bluetooth2</drawable>
+    <drawable name="ic_power_screen">@drawable/ic_settings_display</drawable>
     <drawable name="ic_settings_cell_standby">@drawable/ic_settings_cellular</drawable>
     <drawable name="ic_settings_theme">@drawable/ic_settings_themes</drawable>
     <drawable name="ic_menu_add">@drawable/ic_menu_add_dark</drawable>
@@ -67,7 +70,7 @@
     <drawable name="ic_settings_power">@drawable/ic_settings_performance</drawable>
     <drawable name="ic_rrmagic">@drawable/ic_settings_display_animations</drawable>
     <drawable name="ic_settings_sound">@drawable/ic_settings_sounds</drawable>
-    <drawable name="ic_settings_phone_idle">@drawable/ic_settings_interface</drawable>
+    <drawable name="ic_settings_phone_idle">@*android:drawable/ic_lock_power_off</drawable>
     <drawable name="ic_settings_system">@drawable/ic_settings_status_bar</drawable>
     <drawable name="ic_rrequalizer">@drawable/ic_bliss_equalizer</drawable>
     <drawable name="ic_rrtasks">@drawable/ic_power_system</drawable>
