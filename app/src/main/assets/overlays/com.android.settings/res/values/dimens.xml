@@ -2,4 +2,8 @@
 <resources>
     <!-- Dashboard image tile size -->
     <dimen name="dashboard_tile_image_size">40dp</dimen>
+
+    <!-- Dashboard category padding start / end -->
+    <dimen name="dashboard_category_padding_start">0dp</dimen>
+    <dimen name="dashboard_category_padding_end">0dp</dimen>
 </resources>
