@@ -18,12 +18,6 @@
     <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="-1" />
     <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="Please select a project..." />
     <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
-    <option name="USE_COMMAND_LINE" value="true" />
-    <option name="COMMAND_LINE" value="" />
-    <option name="WIPE_USER_DATA" value="false" />
-    <option name="DISABLE_BOOT_ANIMATION" value="false" />
-    <option name="NETWORK_SPEED" value="full" />
-    <option name="NETWORK_LATENCY" value="none" />
     <method />
   </configuration>
 </component>
