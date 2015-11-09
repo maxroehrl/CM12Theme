@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Dashboard background color -->
-    <color name="dashboard_category_background_color">@*common:color/grey</color>
-
-    <!-- Dashboard Category Title Background Color -->
-    <color name="dashboard_category_title_bg_color">@*common:color/greys</color>
-</resources>
