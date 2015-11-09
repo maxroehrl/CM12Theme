@@ -37,6 +37,9 @@
     <!-- Dashboard background color -->
     <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
 
+    <!-- Wifi icon color -->
+    <color name="wifi_signal_icon_color">@android:color/white</color>
+
     <!-- Storage usage -->
     <color name="memory_used">@*common:color/s500</color>
     <color name="memory_apps_usage">#FF5722</color>
