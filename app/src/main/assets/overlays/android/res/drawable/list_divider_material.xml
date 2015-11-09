@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<nine-patch xmlns:android="http://schemas.android.com/apk/res/android"
-    android:src="@*android:drawable/list_divider_mtrl_alpha"
-    android:tint="@*common:color/grey"
-    android:alpha="0.12" />
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#1F2A2E36" />
+    <size android:height="1dp"
+        android:width="1dp" />
+</shape>
