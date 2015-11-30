@@ -141,7 +141,7 @@
     <drawable name="btn_radio_holo_light">@*android:drawable/btn_radio_material_anim</drawable>
 
     <!-- Ratingbars -->
-    <drawable name="ratingbar_full_empty">@*android:drawable/ratingbar_full_empty_material</drawable>
+    <!--<drawable name="ratingbar_full_empty">@*android:drawable/ratingbar_full_empty_material</drawable>
     <drawable name="ratingbar_full_empty_holo_dark">@*android:drawable/ratingbar_full_empty_material</drawable>
     <drawable name="ratingbar_full_empty_holo_light">@*android:drawable/ratingbar_full_empty_material</drawable>
     <drawable name="ratingbar_full_filled">@*android:drawable/ratingbar_full_filled_material</drawable>
@@ -149,12 +149,12 @@
     <drawable name="ratingbar_full_filled_holo_light">@*android:drawable/ratingbar_full_filled_material</drawable>
     <drawable name="ratingbar_full">@*android:drawable/ratingbar_full_material</drawable>
     <drawable name="ratingbar_full_holo_dark">@*android:drawable/ratingbar_full_material</drawable>
-    <drawable name="ratingbar_full_holo_light">@*android:drawable/ratingbar_full_material</drawable>
+    <drawable name="ratingbar_full_holo_light">@*android:drawable/ratingbar_full_material</drawable>-->
 
     <!-- Scrubber bars -->
-    <drawable name="scrubber_control_selector_holo">@*android:drawable/scrubber_control_selector_material</drawable>
+    <!--<drawable name="scrubber_control_selector_holo">@*android:drawable/scrubber_control_selector_material</drawable>
     <drawable name="scrubber_progress_horizontal_holo_dark">@*android:drawable/scrubber_progress_horizontal_material</drawable>
-    <drawable name="scrubber_progress_horizontal_holo_light">@*android:drawable/scrubber_progress_horizontal_material</drawable>
+    <drawable name="scrubber_progress_horizontal_holo_light">@*android:drawable/scrubber_progress_horizontal_material</drawable>-->
 
     <!-- Star buttons -->
     <drawable name="btn_star">@*android:drawable/btn_star_material</drawable>
