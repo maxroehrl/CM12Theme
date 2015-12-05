@@ -26,6 +26,9 @@
     <!-- Navigation bar button ripple color -->
     <color name="navbutton_ripple_color">@*common:color/s500</color>
 
+    <!-- SystemUI Tuner Icon Tint Color -->
+    <color name="tuner_icon_tint">@android:color/transparent</color>
+
     <drawable name="ic_qs_bluetooth_detail_empty">@drawable/ic_qs_bluetooth_off</drawable>
     <drawable name="ic_qs_cast_detail_empty">@drawable/ic_qs_cast_off</drawable>
     <drawable name="ic_qs_wifi_detail_empty">@drawable/ic_qs_wifi_no_network</drawable>
