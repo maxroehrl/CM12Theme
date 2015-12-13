@@ -26,4 +26,5 @@
     <drawable name="ic_qs_wifi_detail_empty">@drawable/ic_qs_wifi_no_network</drawable>
     <drawable name="ic_qs_doze">@drawable/ic_qs_ambientdisplay_on</drawable>
     <drawable name="ic_qs_doze_off">@drawable/ic_qs_ambientdisplay_off</drawable>
+    <drawable name="ic_qs_perf_profile">@drawable/ic_qs_perf_profile_vector</drawable>
 </resources>
