@@ -35,4 +35,5 @@
     <drawable name="ic_qs_doze">@drawable/ic_qs_ambientdisplay_on</drawable>
     <drawable name="ic_qs_doze_off">@drawable/ic_qs_ambientdisplay_off</drawable>
     <drawable name="ic_qs_perf_profile">@drawable/ic_qs_perf_profile_vector</drawable>
+    <drawable name="ic_qs_system_profiles">@drawable/ic_qs_profiles_on</drawable>
 </resources>
