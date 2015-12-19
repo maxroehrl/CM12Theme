@@ -26,6 +26,9 @@
     <!-- Dashboard background color -->
     <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
 
+    <!-- Do not tint external icons -->
+    <color name="external_tile_icon_tint_color">@android:color/transparent</color>
+
     <!-- Storage usage -->
     <color name="memory_used">@*common:color/s500</color>
     <color name="memory_apps_usage">#FF5722</color>
