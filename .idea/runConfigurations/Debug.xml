@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Debug" type="AndroidRunConfigurationType" factoryName="Android Application">
+  <configuration default="false" name="Debug" type="AndroidRunConfigurationType" factoryName="Android Application" activateToolWindowBeforeRun="false">
     <module name="app" />
     <option name="DEPLOY" value="true" />
     <option name="ARTIFACT_NAME" value="" />
@@ -26,6 +26,9 @@
       <option name="WORKING_DIR" value="" />
       <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
     </Hybrid>
+    <Profilers>
+      <option name="GAPID_DISABLE_PCS" value="false" />
+    </Profilers>
     <option name="DEEP_LINK" value="" />
     <option name="ACTIVITY_CLASS" value="" />
     <method />
