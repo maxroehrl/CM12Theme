@@ -36,9 +36,6 @@
     <color name="notification_icon_bg_color">@*common:color/s500</color>
     <color name="system_notification_accent_color">@*common:color/p900</color>
 
-    <!-- PackageInstaller permission tint -->
-    <color name="app_permission_icon_tint">@android:color/white</color>
-
     <!-- Holo theme redirections -->
     <color name="holo_blue_bright">@*common:color/s500</color>
     <color name="holo_blue_light">@*common:color/s500</color>
