@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="qs_title_text_color">@*common:color/p900</color>
+
+    <!-- SystemUI Tuner Icon Tint Color -->
+    <color name="tuner_icon_tint">@android:color/transparent</color>
+
+    <drawable name="ic_sysbar_back_land">@drawable/ic_sysbar_back</drawable>
+    <drawable name="ic_sysbar_home_land">@drawable/ic_sysbar_home</drawable>
+    <drawable name="ic_sysbar_recent_land">@drawable/ic_sysbar_recent</drawable>
+</resources>
