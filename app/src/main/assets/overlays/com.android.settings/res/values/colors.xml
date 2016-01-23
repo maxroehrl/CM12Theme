@@ -66,7 +66,6 @@
     <drawable name="ic_privacy_guard">@drawable/ic_settings_privacy</drawable>
     <drawable name="ic_audio_ring_24dp">@drawable/ic_bt_cellphone</drawable>
     <drawable name="ic_settings_navigation_bar">@drawable/ic_settings_home</drawable>
-    <drawable name="ring_notif_increasing">@drawable/ic_settings_sounds</drawable>
     <drawable name="prd_ic_themepacks">@drawable/ic_settings_themes</drawable>
     <drawable name="paint_bucket">@drawable/ic_settings_themes</drawable>
     <drawable name="ic_rrlocked">@drawable/ic_settings_security</drawable>
