@@ -46,6 +46,13 @@
     <drawable name="ic_settings_power">@drawable/ic_settings_performance</drawable>
     <drawable name="ic_settings_sound">@drawable/ic_settings_sounds</drawable>
     <drawable name="ic_settings_system">@drawable/ic_settings_status_bar</drawable>
+    <drawable name="ic_settings_statusbar">@drawable/ic_settings_extdesk_hidenavbar</drawable>
+
+    <!-- Duplicate expanded desktop icons -->
+    <drawable name="ic_extdesk_hideboth">@drawable/ic_settings_extdesk_hideboth</drawable>
+    <drawable name="ic_extdesk_hidenavbar">@drawable/ic_settings_extdesk_hidenavbar</drawable>
+    <drawable name="ic_extdesk_hidenone">@drawable/ic_settings_extdesk_hidenone</drawable>
+    <drawable name="ic_extdesk_hidestatusbar">@drawable/ic_settings_extdesk_hidestatusbar</drawable>
 
     <!-- Battery icons -->
     <drawable name="ic_settings_phone_idle">@*android:drawable/ic_lock_power_off</drawable>
