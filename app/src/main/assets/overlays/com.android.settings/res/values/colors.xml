@@ -89,7 +89,7 @@
     <drawable name="ic_wifi_lock_signal_4_dark">@drawable/ic_wifi_lock_signal_4_teal</drawable>
 
     <!-- Misc icons -->
-    <drawable name="ic_menu_add">@drawable/ic_menu_add_dark</drawable>
+    <drawable name="ic_menu_add_dark">@drawable/ic_menu_add</drawable>
     <drawable name="ic_action_action_perm_identity">@drawable/ic_settings_multiuser</drawable>
     <drawable name="ic_performance_icon">@drawable/ic_settings_performance</drawable>
     <drawable name="ic_privacy_guard">@drawable/ic_settings_privacy</drawable>
