@@ -26,6 +26,9 @@
     <!-- Dashboard background color -->
     <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
 
+    <!-- Wifi icon color -->
+    <color name="wifi_signal_icon_color">@*common:color/s500</color>
+
     <!-- Do not tint external icons -->
     <color name="external_tile_icon_tint_color">@android:color/transparent</color>
 
@@ -62,6 +65,13 @@
     <drawable name="ic_settings_bluetooth2">@drawable/ic_settings_bluetooth</drawable>
     <drawable name="ic_power_system">@drawable/ic_settings_performance</drawable>
     <drawable name="ic_power_screen">@drawable/ic_settings_display</drawable>
+
+    <!-- Network icons -->
+    <drawable name="ic_wifi_signal_0_teal">@drawable/ic_wifi_signal_0</drawable>
+    <drawable name="ic_wifi_signal_1_teal">@drawable/ic_wifi_signal_1</drawable>
+    <drawable name="ic_wifi_signal_2_teal">@drawable/ic_wifi_signal_2</drawable>
+    <drawable name="ic_wifi_signal_3_teal">@drawable/ic_wifi_signal_3</drawable>
+    <drawable name="ic_wifi_signal_4_teal">@drawable/ic_wifi_signal_4</drawable>
 
     <!-- Saved network icons -->
     <drawable name="ic_wifi_signal_0_dark">@drawable/ic_wifi_signal_0_teal</drawable>
