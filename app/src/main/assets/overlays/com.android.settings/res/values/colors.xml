@@ -80,6 +80,18 @@
     <drawable name="ic_power_system">@drawable/ic_settings_performance</drawable>
     <drawable name="ic_power_screen">@drawable/ic_settings_display</drawable>
 
+    <!-- Saved network icons -->
+    <drawable name="ic_wifi_signal_0_dark">@drawable/ic_wifi_signal_0_teal</drawable>
+    <drawable name="ic_wifi_signal_1_dark">@drawable/ic_wifi_signal_1_teal</drawable>
+    <drawable name="ic_wifi_signal_2_dark">@drawable/ic_wifi_signal_2_teal</drawable>
+    <drawable name="ic_wifi_signal_3_dark">@drawable/ic_wifi_signal_3_teal</drawable>
+    <drawable name="ic_wifi_signal_4_dark">@drawable/ic_wifi_signal_4_teal</drawable>
+    <drawable name="ic_wifi_lock_signal_0_dark">@drawable/ic_wifi_lock_signal_0_teal</drawable>
+    <drawable name="ic_wifi_lock_signal_1_dark">@drawable/ic_wifi_lock_signal_1_teal</drawable>
+    <drawable name="ic_wifi_lock_signal_2_dark">@drawable/ic_wifi_lock_signal_2_teal</drawable>
+    <drawable name="ic_wifi_lock_signal_3_dark">@drawable/ic_wifi_lock_signal_3_teal</drawable>
+    <drawable name="ic_wifi_lock_signal_4_dark">@drawable/ic_wifi_lock_signal_4_teal</drawable>
+
     <!-- Misc icons -->
     <drawable name="ic_menu_add">@drawable/ic_menu_add_dark</drawable>
     <drawable name="ic_action_action_perm_identity">@drawable/ic_settings_multiuser</drawable>
