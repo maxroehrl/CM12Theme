@@ -40,29 +40,38 @@
     <color name="memory_user_light">#37474F</color>
     <color name="memory_user_dark">#004D40</color>
 
-    <drawable name="ic_settings_wifi">@drawable/ic_settings_wireless</drawable>
-    <drawable name="ic_settings_bluetooth">@drawable/ic_settings_bluetooth2</drawable>
-    <drawable name="ic_power_screen">@drawable/ic_settings_display</drawable>
-    <drawable name="ic_settings_cell_standby">@drawable/ic_settings_cellular</drawable>
+    <!-- Duplicate icons -->
     <drawable name="ic_settings_theme">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_settings_navigation_bar">@drawable/ic_settings_home</drawable>
+    <drawable name="ic_settings_power">@drawable/ic_settings_performance</drawable>
+    <drawable name="ic_settings_sound">@drawable/ic_settings_sounds</drawable>
+    <drawable name="ic_settings_system">@drawable/ic_settings_status_bar</drawable>
+
+    <!-- Battery icons -->
+    <drawable name="ic_settings_phone_idle">@*android:drawable/ic_lock_power_off</drawable>
+    <drawable name="ic_settings_cell_standby">@drawable/ic_settings_cellular</drawable>
+    <drawable name="ic_settings_voice_calls">@drawable/ic_settings_voice_wakeup</drawable>
+    <drawable name="ic_settings_wifi">@drawable/ic_settings_wireless</drawable>
+    <drawable name="ic_settings_bluetooth2">@drawable/ic_settings_bluetooth</drawable>
+    <drawable name="ic_power_system">@drawable/ic_settings_performance</drawable>
+    <drawable name="ic_power_screen">@drawable/ic_settings_display</drawable>
+
+    <!-- Misc icons -->
     <drawable name="ic_menu_add">@drawable/ic_menu_add_dark</drawable>
     <drawable name="ic_action_action_perm_identity">@drawable/ic_settings_multiuser</drawable>
-    <drawable name="ic_rrutilities">@drawable/ic_sysbar_quicksettings</drawable>
     <drawable name="ic_performance_icon">@drawable/ic_settings_performance</drawable>
     <drawable name="ic_privacy_guard">@drawable/ic_settings_privacy</drawable>
     <drawable name="ic_audio_ring_24dp">@drawable/ic_bt_cellphone</drawable>
-    <drawable name="ic_settings_navigation_bar">@drawable/ic_settings_home</drawable>
+    <drawable name="ic_sysbar_brightness">@drawable/ic_settings_display</drawable>
     <drawable name="prd_ic_themepacks">@drawable/ic_settings_themes</drawable>
     <drawable name="paint_bucket">@drawable/ic_settings_themes</drawable>
-    <drawable name="ic_rrlocked">@drawable/ic_settings_security</drawable>
     <drawable name="nfc_payment_empty_state">@drawable/ic_settings_nfc_payment</drawable>
-    <drawable name="ic_ic_settings_about_rr">@drawable/ic_sysbar_quicksettings</drawable>
-    <drawable name="ic_sysbar_brightness">@drawable/ic_settings_display</drawable>
-    <drawable name="ic_settings_power">@drawable/ic_settings_performance</drawable>
+
+    <!-- RR icons -->
     <drawable name="ic_rrmagic">@drawable/ic_settings_display_animations</drawable>
-    <drawable name="ic_settings_sound">@drawable/ic_settings_sounds</drawable>
-    <drawable name="ic_settings_phone_idle">@*android:drawable/ic_lock_power_off</drawable>
-    <drawable name="ic_settings_system">@drawable/ic_settings_status_bar</drawable>
     <drawable name="ic_rrequalizer">@drawable/ic_bliss_equalizer</drawable>
     <drawable name="ic_rrtasks">@drawable/ic_power_system</drawable>
+    <drawable name="ic_rrlocked">@drawable/ic_settings_security</drawable>
+    <drawable name="ic_rrutilities">@drawable/ic_sysbar_quicksettings</drawable>
+    <drawable name="ic_ic_settings_about_rr">@drawable/ic_sysbar_quicksettings</drawable>
 </resources>
