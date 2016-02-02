@@ -43,6 +43,10 @@
     <!-- Do not tint external icons -->
     <color name="external_tile_icon_tint_color">@android:color/transparent</color>
 
+    <!-- Blacklist -->
+    <color name="blacklist_enabled">@android:color/white</color>
+    <color name="blacklist_disabled">@*common:color/s500</color>
+
     <!-- Storage summary -->
     <color name="storage_summary_text_color">@*common:color/s500</color>
     <color name="storage_summary_used_text_color">@color/white_text</color>
