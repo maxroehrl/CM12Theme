@@ -183,5 +183,9 @@
     <drawable name="text_select_handle_middle">@*android:drawable/text_select_handle_middle_material</drawable>
     <drawable name="text_select_handle_right">@*android:drawable/text_select_handle_right_material</drawable>
 
+    <!-- Duplicate drawables -->
     <drawable name="ic_lock_screen_record">@drawable/ic_lock_screenrecord</drawable>
+    <drawable name="ic_lock_power_screenshot">@drawable/ic_lock_screenshot</drawable>
+    <drawable name="ic_lock_power_screenrecord">@drawable/ic_lock_screenrecord</drawable>
+    <drawable name="ic_lock_reboot">@drawable/ic_lock_power_reboot</drawable>
 </resources>
