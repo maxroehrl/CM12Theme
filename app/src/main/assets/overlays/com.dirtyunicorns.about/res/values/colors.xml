@@ -3,4 +3,8 @@
     <color name="colorPrimary">@*common:color/p900</color>
     <color name="colorPrimaryDark">@*common:color/p950</color>
     <color name="colorAccent">@*common:color/s500</color>
+
+    <color name="dark_grey">@android:color/white</color>
+    <color name="cardsbg">@*common:color/grey</color>
+    <color name="light_bg">@*common:color/grey</color>
 </resources>
