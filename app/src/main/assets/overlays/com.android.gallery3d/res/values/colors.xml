@@ -9,6 +9,8 @@
     <color name="albumset_background">#22292D</color>
     <color name="albumset_label_background">@*common:color/grey</color>
 
+    <color name="material_red">@*common:color/grey</color>
+
     <drawable name="fab_accent">@*common:drawable/fab</drawable>
     <color name="floating_action_button_touch_tint">@*common:color/s900</color>
 </resources>
