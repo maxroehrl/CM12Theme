@@ -59,10 +59,10 @@
     <drawable name="ic_settings_statusbar">@drawable/ic_settings_extdesk_hidenavbar</drawable>
 
     <!-- Duplicate expanded desktop icons -->
-    <drawable name="ic_extdesk_hideboth">@drawable/ic_settings_extdesk_hideboth</drawable>
-    <drawable name="ic_extdesk_hidenavbar">@drawable/ic_settings_extdesk_hidenavbar</drawable>
-    <drawable name="ic_extdesk_hidenone">@drawable/ic_settings_extdesk_hidenone</drawable>
-    <drawable name="ic_extdesk_hidestatusbar">@drawable/ic_settings_extdesk_hidestatusbar</drawable>
+    <drawable name="ic_extdesk_hideboth">@drawable/ic_expanded_desktop_hideboth</drawable>
+    <drawable name="ic_extdesk_hidenavbar">@drawable/ic_expanded_desktop_hidenavbar</drawable>
+    <drawable name="ic_extdesk_hidenone">@drawable/ic_expanded_desktop_hidenone</drawable>
+    <drawable name="ic_extdesk_hidestatusbar">@drawable/ic_expanded_desktop_hidestatusbar</drawable>
 
     <!-- Battery icons -->
     <drawable name="ic_settings_phone_idle">@*android:drawable/ic_lock_power_off</drawable>
