@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.Calculator" parent="@android:style/Theme.Material">
-        <item name="android:navigationBarColor">@*common:color/p900</item>
+    <style name="Theme.Calculator" parent="@android:style/Theme.Material.Light">
         <item name="android:colorPrimary">@*common:color/p900</item>
+        <item name="android:colorPrimaryDark">@*common:color/p950</item>
+        <item name="android:colorAccent">@*common:color/s500</item>
+        <item name="android:navigationBarColor">@*common:color/p900</item>
+        <item name="android:windowContentOverlay">@null</item>
     </style>
+
+    <style name="Theme" parent="@style/Theme.Calculator" />
 </resources>
