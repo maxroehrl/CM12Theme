@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">@color/material_blue_grey_900</item>
+        <item name="android:colorPrimaryDark">@color/material_blue_grey_950</item>
+        <item name="android:colorAccent">@color/material_deep_teal_500</item>
+        <item name="android:navigationBarColor">@*common:color/p900</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+
+    <style name="systemUpdateActivityTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">@*common:color/p900</item>
+        <item name="android:colorPrimaryDark">@*common:color/p950</item>
+        <item name="android:colorAccent">@*common:color/s500</item>
+    </style>
+</resources>
