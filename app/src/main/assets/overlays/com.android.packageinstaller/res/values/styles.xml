@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.DeviceDefault.DialogWhenLarge.NoActionBar" />
-
-    <style name="Theme.AlertDialogActivity" parent="@android:style/Theme.DeviceDefault.Panel">
-        <item name="android:backgroundDimEnabled">true</item>
-    </style>
-</resources>
