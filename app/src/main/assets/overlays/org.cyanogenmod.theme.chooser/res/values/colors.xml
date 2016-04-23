@@ -4,13 +4,12 @@
     <color name="primary_dark">@*common:color/p950</color>
     <color name="accent">@*common:color/s500</color>
 
-    <color name="drawer_item_default">@*common:color/p800</color>
+    <color name="drawer_icon">@android:color/white</color>
+    <color name="drawer_item_textcolor">@android:color/white</color>
+    <color name="drawer_item_default">@*common:color/grey</color>
     <color name="drawer_item_pressed">@*common:color/s500</color>
 
     <color name="author_grey">@*common:color/p900</color>
-
-    <color name="title_author_background">@*common:color/greys</color>
-    <color name="detailedview_pager_background">@*common:color/grey</color>
 
     <color name="apply_button_progress_color">@*common:color/s800</color>
     <color name="apply_button_default_color">@*common:color/greys</color>
