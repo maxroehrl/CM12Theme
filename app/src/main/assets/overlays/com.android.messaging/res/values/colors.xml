@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="cm_accent">@*common:color/s500</color>
     <color name="primary_color">@*common:color/s500</color>
 
     <color name="action_bar_background_color">@*common:color/p900</color>
