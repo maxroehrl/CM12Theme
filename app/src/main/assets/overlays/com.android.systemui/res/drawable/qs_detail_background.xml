@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <transition xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
-        <inset android:inset="5dp">
+        <inset android:insetBottom="8dp"
+            android:insetLeft="3dp"
+            android:insetRight="3dp">
             <shape android:shape="rectangle">
                 <solid android:color="@color/qs_detail_transition" />
             </shape>
