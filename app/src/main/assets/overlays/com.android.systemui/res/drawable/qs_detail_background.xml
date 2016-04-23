@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <transition xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@color/qs_detail_transition" />
-    <item android:drawable="@color/system_primary_color" />
+    <item>
+        <inset android:insetRight="16dp">
+            <shape android:shape="rectangle">
+                <solid android:color="@color/qs_detail_transition" />
+            </shape>
+        </inset>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/system_primary_color" />
+        </shape>
+    </item>
 </transition>
