@@ -41,6 +41,8 @@
     <!-- Storage summary -->
     <color name="storage_summary_text_color">@*common:color/s500</color>
 
+    <color name="memory_max_use">@*common:color/s500</color>
+
     <!-- Storage usage -->
     <color name="memory_used">@*common:color/s500</color>
     <color name="memory_apps_usage">#FF5722</color>
