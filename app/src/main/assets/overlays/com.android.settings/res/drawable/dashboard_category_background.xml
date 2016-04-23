@@ -13,8 +13,6 @@
             <solid android:color="@android:color/white" />
             <corners android:bottomLeftRadius="8dp"
                 android:bottomRightRadius="8dp" />
-            <stroke android:color="@*common:color/s500"
-                android:width="2dp" />
         </shape>
     </item>
 </layer-list>
