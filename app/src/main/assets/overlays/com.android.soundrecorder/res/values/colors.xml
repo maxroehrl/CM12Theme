@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="primary">@*common:color/s500</color>
+    <color name="primary_dark">@*common:color/s900</color>
+    <color name="accent">@*common:color/s500</color>
+
     <color name="material_primary">@*common:color/p900</color>
     <color name="material_dark">@*common:color/p950</color>
 </resources>
