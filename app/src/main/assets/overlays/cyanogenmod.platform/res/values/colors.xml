@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_qs_themes">@*common:drawable/ic_qs_themes</drawable>
+    <drawable name="ic_livedisplay_auto">@*common:drawable/ic_livedisplay_auto</drawable>
+    <drawable name="ic_livedisplay_day">@*common:drawable/ic_livedisplay_day</drawable>
+    <drawable name="ic_livedisplay_night">@*common:drawable/ic_livedisplay_night</drawable>
+    <drawable name="ic_livedisplay_off">@*common:drawable/ic_livedisplay_off</drawable>
+    <drawable name="ic_livedisplay_outdoor">@*common:drawable/ic_livedisplay_outdoor</drawable>
+</resources>
