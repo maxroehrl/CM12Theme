@@ -1,96 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Color resources for KLP theme. -->
-    <color name="highlight_color_klp">@*common:color/highlight_color_klp</color>
-    <color name="typed_word_color_klp">@*common:color/typed_word_color_klp</color>
-    <color name="suggested_word_color_klp">@*common:color/suggested_word_color_klp</color>
-    <color name="highlight_translucent_color_klp">@*common:color/highlight_translucent_color_klp</color>
-    <color name="key_hint_letter_color_holo">@*common:color/key_hint_letter_color_holo</color>
-    <color name="gesture_floating_preview_color_holo">@*common:color/gesture_floating_preview_color_holo</color>
+    <color name="theme_primary">@*common:color/p900</color>
+    <color name="theme_primary_dark">@*common:color/p950</color>
+    <color name="theme_accent">@*common:color/s500</color>
 
-    <!-- Color resources for LXX_Light theme. -->
-    <color name="highlight_color_lxx_light">@*common:color/highlight_color_lxx_light</color>
-    <color name="auto_correct_color_lxx_light">@*common:color/auto_correct_color_lxx_light</color>
-    <color name="suggested_word_color_lxx_light">@*common:color/suggested_word_color_lxx_light</color>
-    <color name="gesture_trail_color_lxx_light">@*common:color/gesture_trail_color_lxx_light</color>
-    <color name="sliding_key_input_preview_color_lxx_light">@*common:color/sliding_key_input_preview_color_lxx_light</color>
+    <!-- MATERIAL DARK THEME -->
+    <!-- Background -->
+    <color name="base_material_dark_theme">@*common:color/grey</color>
+    <color name="candidate_material_dark_theme">@*common:color/grey</color>
+    <!-- Lighter Keys -->
+    <color name="key_bordered_dark_theme">#393F4D</color>
+    <color name="key_pressed_bordered_dark_theme">@*common:color/s500</color>
+    <!-- Darker Keys -->
+    <color name="key_dark_bordered_dark_theme">#232731</color>
+    <color name="key_dark_pressed_bordered_dark_theme">@*common:color/s500</color>
+    <!-- Enter -->
+    <color name="key_action_bordered_dark_theme">@*common:color/s500</color>
+    <color name="key_action_pressed_bordered_dark_theme">@*common:color/s900</color>
+    <!-- Divider -->
+    <color name="header_bottom_separator_material_dark_theme">#232731</color>
+    <!-- Popup -->
+    <color name="popup_background_material_dark_theme">@*common:color/s500</color>
+    <color name="label_popup_pressed_material_dark_theme">@*common:color/s900</color>
+    <!-- Track -->
+    <color name="ColorGestureTrackMaterialDarkTheme">@*common:color/s500</color>
+    <color name="ColorChordedTrackMaterialDarkTheme">@*common:color/s500</color>
+    <!-- Circle -->
+    <drawable name="ic_key_ime_action_back_material_dark_theme">@drawable/ic_circle</drawable>
+    <drawable name="ic_key_ime_action_back_pressed_material_dark_theme">@drawable/ic_circle</drawable>
+    <!-- Shift -->
+    <drawable name="ic_bar_green_material_dark_theme">@drawable/ic_bar</drawable>
+    <drawable name="ic_key_shift_narrow_on_material_dark">@drawable/ic_shift</drawable>
 
-    <color name="key_background_lxx_light">@*common:color/key_background_lxx_light</color>
-    <color name="key_background_pressed_lxx_light">@*common:color/key_background_pressed_lxx_light</color>
-
-    <!-- Color resources for LXX_Dark theme. -->
-    <color name="highlight_color_lxx_dark">@*common:color/highlight_color_lxx_dark</color>
-    <color name="auto_correct_color_lxx_dark">@*common:color/auto_correct_color_lxx_dark</color>
-    <color name="suggested_word_color_lxx_dark">@*common:color/suggested_word_color_lxx_dark</color>
-    <color name="gesture_trail_color_lxx_dark">@*common:color/gesture_trail_color_lxx_dark</color>
-    <color name="sliding_key_input_preview_color_lxx_dark">@*common:color/sliding_key_input_preview_color_lxx_dark</color>
-
-    <color name="key_background_lxx_dark">@*common:color/key_background_lxx_dark</color>
-    <color name="key_background_pressed_lxx_dark">@*common:color/key_background_pressed_lxx_dark</color>
-
-    <!-- Accent color for the notification. We need to match this to the OS build -->
-    <color name="notification_accent_color">@*common:color/notification_accent_color</color>
-
-    <!-- Palette colors referenced by top-level themes. -->
-    <color name="theme_primary">@*common:color/theme_primary</color>
-    <color name="theme_primary_dark">@*common:color/theme_primary_dark</color>
-    <color name="theme_accent">@*common:color/theme_accent</color>
-
-    <!-- Drawable references -->
-    <drawable name="btn_keyboard_key_active_klp_dark">@*common:drawable/btn_keyboard_key_active_klp_dark</drawable>
-    <drawable name="btn_keyboard_key_dark_active_klp">@*common:drawable/btn_keyboard_key_dark_active_klp</drawable>
-    <drawable name="btn_keyboard_key_dark_normal_holo">@*common:drawable/btn_keyboard_key_dark_normal_holo</drawable>
-    <drawable name="btn_keyboard_key_dark_normal_off_holo">@*common:drawable/btn_keyboard_key_dark_normal_off_holo</drawable>
-    <drawable name="btn_keyboard_key_dark_normal_on_klp">@*common:drawable/btn_keyboard_key_dark_normal_on_klp</drawable>
-    <drawable name="btn_keyboard_key_dark_pressed_klp">@*common:drawable/btn_keyboard_key_dark_pressed_klp</drawable>
-    <drawable name="btn_keyboard_key_dark_pressed_off_klp">@*common:drawable/btn_keyboard_key_dark_pressed_off_klp</drawable>
-    <drawable name="btn_keyboard_key_dark_pressed_on_klp">@*common:drawable/btn_keyboard_key_dark_pressed_on_klp</drawable>
-    <drawable name="btn_keyboard_key_light_normal_holo">@*common:drawable/btn_keyboard_key_light_normal_holo</drawable>
-    <drawable name="btn_keyboard_key_light_pressed_klp">@*common:drawable/btn_keyboard_key_light_pressed_klp</drawable>
-    <drawable name="btn_keyboard_key_normal_holo_dark">@*common:drawable/btn_keyboard_key_normal_holo_dark</drawable>
-    <drawable name="btn_keyboard_key_normal_holo_light">@*common:drawable/btn_keyboard_key_normal_holo_light</drawable>
-    <drawable name="btn_keyboard_key_normal_off_holo_dark">@*common:drawable/btn_keyboard_key_normal_off_holo_dark</drawable>
-    <drawable name="btn_keyboard_key_normal_on_klp_dark">@*common:drawable/btn_keyboard_key_normal_on_klp_dark</drawable>
-    <drawable name="btn_keyboard_key_pressed_klp_dark">@*common:drawable/btn_keyboard_key_pressed_klp_dark</drawable>
-    <drawable name="btn_keyboard_key_pressed_klp_light">@*common:drawable/btn_keyboard_key_pressed_klp_light</drawable>
-    <drawable name="btn_keyboard_key_pressed_off_klp_dark">@*common:drawable/btn_keyboard_key_pressed_off_klp_dark</drawable>
-    <drawable name="btn_keyboard_key_pressed_on_klp_dark">@*common:drawable/btn_keyboard_key_pressed_on_klp_dark</drawable>
-    <drawable name="btn_keyboard_spacebar_normal_lxx_dark">@*common:drawable/btn_keyboard_spacebar_normal_lxx_dark</drawable>
-    <drawable name="btn_keyboard_spacebar_normal_lxx_light">@*common:drawable/btn_keyboard_spacebar_normal_lxx_light</drawable>
-    <drawable name="btn_keyboard_spacebar_pressed_lxx_dark">@*common:drawable/btn_keyboard_spacebar_pressed_lxx_dark</drawable>
-    <drawable name="btn_keyboard_spacebar_pressed_lxx_light">@*common:drawable/btn_keyboard_spacebar_pressed_lxx_light</drawable>
-    <drawable name="keyboard_background_holo">@*common:drawable/keyboard_background_holo</drawable>
-    <drawable name="keyboard_key_feedback_background_klp">@*common:drawable/keyboard_key_feedback_background_klp</drawable>
-    <drawable name="keyboard_key_feedback_left_background_klp">@*common:drawable/keyboard_key_feedback_left_background_klp</drawable>
-    <drawable name="keyboard_key_feedback_left_more_background_klp">@*common:drawable/keyboard_key_feedback_left_more_background_klp</drawable>
-    <drawable name="keyboard_key_feedback_more_background_klp">@*common:drawable/keyboard_key_feedback_more_background_klp</drawable>
-    <drawable name="keyboard_key_feedback_right_background_klp">@*common:drawable/keyboard_key_feedback_right_background_klp</drawable>
-    <drawable name="keyboard_key_feedback_right_more_background_klp">@*common:drawable/keyboard_key_feedback_right_more_background_klp</drawable>
-    <drawable name="keyboard_popup_panel_background_klp">@*common:drawable/keyboard_popup_panel_background_klp</drawable>
-    <drawable name="keyboard_suggest_strip_holo">@*common:drawable/keyboard_suggest_strip_holo</drawable>
-
-    <drawable name="btn_keyboard_key_active_lxx_dark">@*common:drawable/btn_keyboard_key_active_lxx_dark</drawable>
-    <drawable name="btn_keyboard_key_active_lxx_light">@*common:drawable/btn_keyboard_key_active_lxx_light</drawable>
-    <drawable name="btn_keyboard_key_active_pressed_lxx_dark">@*common:drawable/btn_keyboard_key_active_pressed_lxx_dark</drawable>
-    <drawable name="btn_keyboard_key_active_pressed_lxx_light">@*common:drawable/btn_keyboard_key_active_pressed_lxx_light</drawable>
-    <drawable name="btn_keyboard_key_normal_off_lxx_dark">@*common:drawable/btn_keyboard_key_normal_off_lxx_dark</drawable>
-    <drawable name="btn_keyboard_key_normal_off_lxx_light">@*common:drawable/btn_keyboard_key_normal_off_lxx_light</drawable>
-    <drawable name="btn_keyboard_key_normal_on_lxx_dark">@*common:drawable/btn_keyboard_key_normal_on_lxx_dark</drawable>
-    <drawable name="btn_keyboard_key_normal_on_lxx_light">@*common:drawable/btn_keyboard_key_normal_on_lxx_light</drawable>
-    <drawable name="btn_keyboard_key_pressed_off_lxx_dark">@*common:drawable/btn_keyboard_key_pressed_off_lxx_dark</drawable>
-    <drawable name="btn_keyboard_key_pressed_off_lxx_light">@*common:drawable/btn_keyboard_key_pressed_off_lxx_light</drawable>
-    <drawable name="btn_keyboard_key_pressed_on_lxx_dark">@*common:drawable/btn_keyboard_key_pressed_on_lxx_dark</drawable>
-    <drawable name="btn_keyboard_key_pressed_on_lxx_light">@*common:drawable/btn_keyboard_key_pressed_on_lxx_light</drawable>
-    <drawable name="keyboard_background_lxx_dark">@*common:drawable/keyboard_background_lxx_dark</drawable>
-    <drawable name="keyboard_background_lxx_light">@*common:drawable/keyboard_background_lxx_light</drawable>
-    <drawable name="keyboard_key_feedback_background_lxx_dark">@*common:drawable/keyboard_key_feedback_background_lxx_dark</drawable>
-    <drawable name="keyboard_key_feedback_background_lxx_light">@*common:drawable/keyboard_key_feedback_background_lxx_light</drawable>
-    <drawable name="keyboard_key_feedback_more_background_lxx_dark">@*common:drawable/keyboard_key_feedback_more_background_lxx_dark</drawable>
-    <drawable name="keyboard_key_feedback_more_background_lxx_light">@*common:drawable/keyboard_key_feedback_more_background_lxx_light</drawable>
-    <drawable name="keyboard_popup_panel_background_lxx_dark">@*common:drawable/keyboard_popup_panel_background_lxx_dark</drawable>
-    <drawable name="keyboard_suggest_strip_lxx_dark">@*common:drawable/keyboard_suggest_strip_lxx_dark</drawable>
-    <drawable name="keyboard_suggest_strip_lxx_light">@*common:drawable/keyboard_suggest_strip_lxx_light</drawable>
-    <drawable name="suggestions_strip_divider_lxx_dark">@*common:drawable/suggestions_strip_divider_lxx_dark</drawable>
-    <drawable name="sym_keyboard_shift_locked_lxx_dark">@*common:drawable/sym_keyboard_shift_locked_lxx_dark</drawable>
-    <drawable name="sym_keyboard_shift_locked_lxx_light">@*common:drawable/sym_keyboard_shift_locked_lxx_light</drawable>
+    <!-- MATERIAL LIGHT THEME -->
+    <!-- Enter -->
+    <color name="key_action_bordered_light_theme">@*common:color/s500</color>
+    <color name="key_action_pressed_bordered_light_theme">@*common:color/s900</color>
+    <!-- Popup -->
+    <color name="label_popup_pressed_material_light_theme">@android:color/white</color>
+    <!-- Track -->
+    <color name="ColorGestureTrackMaterialLightTheme">@*common:color/s500</color>
+    <color name="ColorChordedTrackMaterialLightTheme">@*common:color/s500</color>
+    <!-- Circle -->
+    <drawable name="ic_key_ime_action_back_material_light_theme">@drawable/ic_circle</drawable>
+    <drawable name="ic_key_ime_action_back_pressed_material_light_theme">@drawable/ic_circle</drawable>
+    <!-- Shift -->
+    <drawable name="ic_bar_green_material_light_theme">@drawable/ic_bar</drawable>
+    <drawable name="ic_key_shift_narrow_on_material_light">@drawable/ic_shift</drawable>
 </resources>
