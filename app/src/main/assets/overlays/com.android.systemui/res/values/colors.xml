@@ -26,6 +26,14 @@
     <!-- Navigation bar button ripple color -->
     <color name="navbutton_ripple_color">@*common:color/s500</color>
 
+    <!-- On CM13 these drawables are in the cyanogenmod.platform package -->
+    <drawable name="ic_qs_themes_on">@*common:drawable/ic_qs_themes</drawable>
+    <drawable name="ic_livedisplay_auto">@*common:drawable/ic_livedisplay_auto</drawable>
+    <drawable name="ic_livedisplay_day">@*common:drawable/ic_livedisplay_day</drawable>
+    <drawable name="ic_livedisplay_night">@*common:drawable/ic_livedisplay_night</drawable>
+    <drawable name="ic_livedisplay_off">@*common:drawable/ic_livedisplay_off</drawable>
+    <drawable name="ic_livedisplay_outdoor">@*common:drawable/ic_livedisplay_outdoor</drawable>
+
     <drawable name="ic_qs_bluetooth_detail_empty">@drawable/ic_qs_bluetooth_off</drawable>
     <drawable name="ic_qs_cast_detail_empty">@drawable/ic_qs_cast_off</drawable>
     <drawable name="ic_qs_wifi_detail_empty">@drawable/ic_qs_wifi_no_network</drawable>
