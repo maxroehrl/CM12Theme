@@ -8,9 +8,10 @@
     <color name="qs_detail_empty">@*common:color/qs</color>
     <color name="qs_detail_progress_track">#102356</color>
     <color name="qs_header_background">@*common:color/p900</color>
-    <color name="qs_background">@*common:color/greyt</color>
-    <color name="qs_stroke">@*common:color/p900</color>
     <color name="qs_detail_transition">#992B4995</color>
+
+    <color name="default_circle_indicator_fill_color">@*common:color/s500</color>
+    <color name="default_circle_indicator_page_color">#10FFFFFF</color>
 
     <drawable name="heads_up_notification_bg_pressed">@*common:color/s500</drawable>
 
