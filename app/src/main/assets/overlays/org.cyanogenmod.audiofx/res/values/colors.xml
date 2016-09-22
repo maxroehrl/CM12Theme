@@ -14,4 +14,7 @@
     <color name="eq_holo_bright">@*common:color/p700</color>
     <color name="eq_holo_blue">@*common:color/p500</color>
     <color name="eq_holo_dark">@*common:color/p500</color>
+
+    <drawable name="ic_qs_visualizer_off">@*common:drawable/ic_qs_visualizer_off</drawable>
+    <drawable name="ic_qs_visualizer_on">@*common:drawable/ic_qs_visualizer_on</drawable>
 </resources>
