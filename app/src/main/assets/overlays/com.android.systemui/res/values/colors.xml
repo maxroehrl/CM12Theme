@@ -26,6 +26,7 @@
     <drawable name="ic_livedisplay_night">@*common:drawable/ic_livedisplay_night</drawable>
     <drawable name="ic_livedisplay_off">@*common:drawable/ic_livedisplay_off</drawable>
     <drawable name="ic_livedisplay_outdoor">@*common:drawable/ic_livedisplay_outdoor</drawable>
+    <drawable name="ic_qs_visualizer_static">@*common:drawable/ic_qs_visualizer_on</drawable>
 
     <drawable name="ic_qs_bluetooth_detail_empty">@drawable/ic_qs_bluetooth_off</drawable>
     <drawable name="ic_qs_cast_detail_empty">@drawable/ic_qs_cast_off</drawable>
